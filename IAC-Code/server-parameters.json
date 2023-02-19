@@ -1,0 +1,18 @@
+[
+  {
+    "ParameterKey": "EnvironmentName",
+    "ParameterValue": "UdacityProject"
+  },
+  {
+    "ParameterKey": "AMI",
+    "ParameterValue": "ami-0a97be4c4be6d6cc4"
+  },
+  {
+    "ParameterKey": "Min",
+    "ParameterValue": "2"
+  },
+  {
+    "ParameterKey": "Max",
+    "ParameterValue": "4"
+  }
+]
